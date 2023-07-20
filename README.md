@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **C, C#, C++**
 
-- 📫 How to reach me **Discord: real.mf**
-
 - ⚡ Fun fact **you are gay**
 
 <h3 align="left">Languages and Tools:</h3>
