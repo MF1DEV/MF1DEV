@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mf1dev</h1>
+<h1 align="center">Hi 👋, I'm MF1DEV</h1>
 <h3 align="center">Interested in learning new languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mf1dev&label=Profile%20views&color=0e75b6&style=flat" alt="mf1dev" /> </p>
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Discord: real.mf**
 
-- ⚡ Fun fact **i like dick (joking)**
+- ⚡ Fun fact **you are gay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
